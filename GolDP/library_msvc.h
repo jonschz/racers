@@ -581,4 +581,269 @@ static const char* ___crtLCMapStringA_str = "\0";
 // STRING: GOLDP 0x10059b98
 static const wchar_t* ___crtLCMapStringA_wstr = L"\0";
 
+
+
+
+// LIBRARY: GOLDP 0x1004b049
+// ?_CallCatchBlock2@@YAPAXPAUEHRegistrationNode@@PBU_s_FuncInfo@@PAXHK@Z
+
+
+// LIBRARY: GOLDP 0x1004b335
+// __NLG_Notify1
+
+// LIBRARY: GOLDP 0x1004cf90
+// __CallSettingFrame@12
+
+// LIBRARY: GOLDP 0x1004b0c2
+// ?_CallSETranslator@@YAHPAUEHExceptionRecord@@PAUEHRegistrationNode@@PAX2PBU_s_FuncInfo@@H1@Z
+
+// LIBRARY: GOLDP 0x1004d168
+// ?terminate@@YAXXZ
+
+// LIBRARY: GOLDP 0x10053849
+// _raise
+
+// LIBRARY: GOLDP 0x1004cac5
+// ___FrameUnwindToState
+
+// LIBRARY: GOLDP 0x1004d1c9
+// ?_inconsistency@@YAXXZ
+
+// LIBRARY: GOLDP 0x1004cefd
+// ?_DestructExceptionObject@@YAXPAUEHExceptionRecord@@E@Z
+
+// LIBRARY: GOLDP 0x1004cfb7
+// __NLG_Return
+
+// LIBRARY: GOLDP 0x1004afbd
+// ?_CallMemberFunction2@@YGXPAX00H@Z
+
+
+// LIBRARY: GOLDP 0x100504d9
+// ?_ValidateRead@@YAHPBXI@Z
+
+// LIBRARY: GOLDP 0x100504f5
+// ?_ValidateWrite@@YAHPAXI@Z
+
+// LIBRARY: GOLDP 0x10050511
+// ?_ValidateExecute@@YAHP6GHXZ@Z
+
+
+
+// LIBRARY: GOLDP 0x1004afc4
+// ?_UnwindNestedFrames@@YGXPAUEHRegistrationNode@@PAUEHExceptionRecord@@@Z
+
+// LIBRARY: GOLDP 0x1004af82
+// ?_JumpToContinuation@@YGXPAXPAUEHRegistrationNode@@@Z
+
+
+// LIBRARY: GOLDP 0x1004b013
+// ___CxxFrameHandler
+
+
+
+// LIBRARY: GOLDP 0x1004b1ed
+// ?_GetRangeOfTrysToCheck@@YAPBU_s_TryBlockMapEntry@@PBU_s_FuncInfo@@HHPAI1@Z
+
+
+
+// LIBRARY: GOLDP 0x1004c770
+// ___InternalCxxFrameHandler
+
+
+// LIBRARY: GOLDP 0x1004b312
+// __abnormal_termination
+
+
+
+// can't decide between
+// ?_CallMemberFunction0@@YGXPAX0@Z
+// ?_CallMemberFunction1@@YGXPAX00@Z
+// LIBRARY: GOLDP 0x1004afb6
+// ?_CallMemberFunction0@@YGXPAX0@Z
+
+
+// LIBRARY: GOLDP 0x10050a32
+// _abort
+
+
+// LIBRARY: GOLDP 0x1004b3c1
+// __fpmath
+
+// LIBRARY: GOLDP 0x1004b3d8
+// __fpclear
+
+// LIBRARY: GOLDP 0x1004b3d9
+// __cfltcvt_init
+
+
+
+
+// GLOBAL: GOLDP 0x1005f604
+// ?__pInconsistency@@3P6AXXZA
+
+// GLOBAL: GOLDP 0x1005fc88
+// __First_FPE_Indx
+
+// GLOBAL: GOLDP 0x1005fc8c
+// __Num_FPE
+
+// GLOBAL: GOLDP 0x1005f980
+// ___decimal_point
+
+// GLOBAL: GOLDP 0x10062240
+// __pow10pos
+
+// GLOBAL: GOLDP 0x100623a0
+// __pow10neg
+
+// LIBRARY: GOLDP 0x1004dd64
+// __setdefaultprecision
+
+
+
+// LIBRARY: GOLDP 0x1004dd76
+// __ms_p5_test_fdiv
+
+
+// LIBRARY: GOLDP 0x1004ddb4
+// __ms_p5_mp_test_fdiv
+
+
+// GLOBAL: GOLDP 0x10065ef8
+// __adjust_fdiv
+
+// LIBRARY: GOLDP 0x1004dddd
+// __forcdecpt
+
+
+// LIBRARY: GOLDP 0x1004de37
+// __cropzeros
+
+
+// LIBRARY: GOLDP 0x1004de85
+// __positive
+
+
+// LIBRARY: GOLDP 0x1004de9d
+// __fassign
+
+// LIBRARY: GOLDP 0x1004e18d
+// __cfltcvt
+
+
+// LIBRARY: GOLDP 0x10052070
+// __control87
+
+
+
+// LIBRARY: GOLDP 0x100520a5
+// __controlfp
+
+// no recomp symbol
+// // LIBRARY: GOLDP 0x100520bb
+//
+
+// no recomp symbol
+// // LIBRARY: GOLDP 0x1005214d
+//
+
+// LIBRARY: GOLDP 0x100521d6
+// _tolower
+
+// LIBRARY: GOLDP 0x10052245
+// __tolower_lk
+
+// LIBRARY: GOLDP 0x10052310
+// __ZeroTail
+
+// LIBRARY: GOLDP 0x10052359
+// __IncMan
+
+// LIBRARY: GOLDP 0x100523af
+// __RoundMan
+
+// LIBRARY: GOLDP 0x1005243b
+// __CopyMan
+
+// LIBRARY: GOLDP 0x10052456
+// __FillZeroMan
+
+
+// LIBRARY: GOLDP 0x10052462
+// __IsZeroMan
+
+// LIBRARY: GOLDP 0x1005247d
+// __ShrMan
+
+// LIBRARY: GOLDP 0x1005250a
+// __ld12cvt
+
+
+// LIBRARY: GOLDP 0x10052676
+// __ld12tod
+
+
+// LIBRARY: GOLDP 0x1005268c
+// __ld12tof
+
+// LIBRARY: GOLDP 0x100526a2
+// __atodbl
+
+
+// LIBRARY: GOLDP 0x100526cf
+// __atoflt
+
+// LIBRARY: GOLDP 0x1004dffe
+// __cftof
+
+// LIBRARY: GOLDP 0x1004e0fa
+// __cftog
+
+// LIBRARY: GOLDP 0x1004dedb
+// __cftoe
+
+
+// LIBRARY: GOLDP 0x100526fc
+// __fptostr
+
+
+
+// LIBRARY: GOLDP 0x10052773
+// __fltout2
+
+
+// LIBRARY: GOLDP 0x100527cf
+// ___dtold
+
+// LIBRARY: GOLDP 0x10053bc0
+// ___addl
+
+// LIBRARY: GOLDP 0x10053be1
+// ___add_12
+
+// LIBRARY: GOLDP 0x10053c3f
+// ___shl_12
+
+// LIBRARY: GOLDP 0x10053c6d
+// ___shr_12
+
+// LIBRARY: GOLDP 0x10053c9a
+// ___mtold12
+
+// LIBRARY: GOLDP 0x10053d61
+// ___strgtold12
+
+// LIBRARY: GOLDP 0x1005471e
+// ___ld12mul
+
+// LIBRARY: GOLDP 0x1005493e
+// ___multtenpow12
+
+// LIBRARY: GOLDP 0x10054232
+// _$I10_OUTPUT
+
+// LIBRARY: GOLDP 0x1004e2c9
+// __seh_longjmp_unwind@4
+
 #endif
