@@ -846,4 +846,49 @@ static const wchar_t* ___crtLCMapStringA_wstr = L"\0";
 // LIBRARY: GOLDP 0x1004e2c9
 // __seh_longjmp_unwind@4
 
+// LIBRARY: GOLDP 0x10050475
+// ?__CxxUnhandledExceptionFilter@@YGJPAU_EXCEPTION_POINTERS@@@Z
+
+// LIBRARY: GOLDP 0x1005129a
+// ___sbh_resize_block
+
+// LIBRARY: GOLDP 0x10051d86
+// __lock_file
+
+// LIBRARY: GOLDP 0x10051db5
+// __lock_file2
+
+// LIBRARY: GOLDP 0x10051dd8
+// __unlock_file
+
+// LIBRARY: GOLDP 0x10051e07
+// __unlock_file2
+
+// LIBRARY: GOLDP 0x10053a08
+// __fcloseall
+
+// LIBRARY: GOLDP 0x10053a89
+// __fflush_lk
+
+// LIBRARY: GOLDP 0x10053ab7
+// __flush
+
+// LIBRARY: GOLDP 0x100544d0
+// __strcmpi
+
+// LIBRARY: GOLDP 0x100545a0
+// __strnicmp
+
+// LIBRARY: GOLDP 0x100546a1
+// _fclose
+
+// LIBRARY: GOLDP 0x100546d2
+// __fclose_lk
+
+// LIBRARY: GOLDP 0x100549f4
+// __freebuf
+
+// GLOBAL: GOLDP 0x10065fc4
+// ___lc_handle
+
 #endif
